@@ -1,0 +1,1 @@
+x = ['paris','london','rome','italy','cuba']
